@@ -9,7 +9,7 @@ module.exports = {
       repo: `devnjw/devnjw.github.io`,
     },
   },
-  ga: '0', // Google Analytics Tracking ID
+  ga: 'G-2B4KN33KWL', // Google Analytics Tracking ID
   author: {
     name: `남진우`,
     bio: {
