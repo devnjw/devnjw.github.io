@@ -3,7 +3,7 @@ title: 블로그를 다시 시작한 이유
 date: '2023-12-06 23:00:00'
 author: Jinwoo Nam
 tags: blog
-categories: Thoughts
+categories: 생각
 ---
 
 무려 2년 만에 블로그 글을 올린다. 다시 간간이 글을 적어보려 한다.
