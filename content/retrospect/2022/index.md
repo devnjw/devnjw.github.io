@@ -20,7 +20,7 @@ categories: 회고
 </span>
 <br><br>
 
-## Software Engineer [’jobːbu]
+## Software Engineer [’jabːbu]
 
 AI Platform 팀에서 Software Engineer라 적고 잡부라 읽는 커리어를 시작했다. 입사 교육 같은거 없이 바로 정글에 투입됐다. 인턴 때는 프론트엔드 개발과 백엔드 api 개발을 주로 했다. 그다음에는 개발뿐만 아니라 (손이 덜덜 떨리는) 배포, GPU 클러스터 운영까지 다양하게 경험했다. 1년 차에 이런 경험들을 하는게 벅찰 때도 있었지만 지금 생각해보면 큰 행운이었다.
 
