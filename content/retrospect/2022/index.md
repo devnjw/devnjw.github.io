@@ -2,7 +2,7 @@
 title: 2022년 회고
 date: '2023-12-28 17:00:00'
 author: Jinwoo Nam
-tags: blog
+tags: retrospect developer
 categories: 회고
 ---
 

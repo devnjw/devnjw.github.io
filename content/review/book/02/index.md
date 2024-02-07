@@ -2,7 +2,7 @@
 title: 질문하는 자만 살아남는다 | 기획은 2형식이다 서평
 date: '2023-12-28 10:20:00'
 author: Jinwoo Nam
-tags: blog
+tags: 기획은2형식이다 기획 디자인 서평 AI
 categories: 서평
 ---
 

@@ -2,7 +2,7 @@
 title: 인간을 위한 디자인 서평
 date: '2024-01-28 01:20:00'
 author: Jinwoo Nam
-tags: blog
+tags: 인간을위한디자인 디자인 서평
 categories: 서평
 ---
 

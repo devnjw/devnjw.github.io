@@ -2,7 +2,7 @@
 title: 디자이너만이 살아남는다 | 지적자본론 서평
 date: '2023-12-16 23:10:00'
 author: Jinwoo Nam
-tags: blog
+tags: 지적자본론 디자인 AI 서평
 categories: 서평
 ---
 
